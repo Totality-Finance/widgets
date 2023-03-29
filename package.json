@@ -1,8 +1,9 @@
 {
-  "name": "@uniswap/widgets",
-  "description": "Uniswap Interface",
-  "homepage": "https://github.com/Uniswap/widgets#readme",
-  "repository": "https://github.com/Uniswap/widgets",
+  "name": "@totality-fi/widgets",
+  "version": "1.0.0",
+  "description": "Totality Interface",
+  "homepage": "https://github.com/Totality-Finance/widgets#readme",
+  "repository": "https://github.com/Totality-Finance/widgets",
   "files": [
     "dist"
   ],
@@ -62,10 +63,10 @@
     "@fontsource/inter": "^4.5.1",
     "@popperjs/core": "^2.4.4",
     "@reduxjs/toolkit": "^1.6.1",
-    "@totality-fi/router-sdk": "^1.0.1",
-    "@totality-fi/smart-order-router": "^1.0.7",
-    "@totality-fi/universal-router-sdk": "^1.0.0",
-    "@totality-fi/v1-sdk": "^3.0.5",
+    "@totality-fi/router-sdk": ">=1.0.1 <2.0.0",
+    "@totality-fi/smart-order-router": ">=1.0.7 <2.0.0",
+    "@totality-fi/universal-router-sdk": ">=1.0.0 <2.0.0",
+    "@totality-fi/v1-sdk": ">=3.0.5 <4.0.0",
     "@uniswap/conedison": "^1.5.3",
     "@uniswap/permit2-sdk": "^1.2.0",
     "@uniswap/redux-multicall": "^1.1.8",
