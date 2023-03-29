@@ -1,5 +1,5 @@
 import { Fraction, Percent } from '@uniswap/sdk-core'
-import { Pair } from '@uniswap/v2-sdk'
+import { Pair } from '@totality-fi/v1-sdk'
 import { FeeAmount, Pool } from '@uniswap/v3-sdk'
 import {
   ALLOWED_PRICE_IMPACT_HIGH,
